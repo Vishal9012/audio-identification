@@ -12,5 +12,5 @@ constellation-map-based fingerprinting techniques.
 ### How to Run
 ```bash
 pip install -r requirements.txt
-python scripts/build_fingerprints.py
-python scripts/run_identification.py
+python3 -m scripts/build_fingerprints.py
+python3 -m scripts/run_identification.py
