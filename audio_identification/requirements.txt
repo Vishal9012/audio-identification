@@ -1,0 +1,6 @@
+numpy>=1.21
+scipy>=1.7
+librosa>=0.10
+scikit-image>=0.19
+matplotlib>=3.5
+tqdm

@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.wav
+*.mp3
+.venv/
+
+# Data
+data/database_recordings/
+data/query_recordings/
+data/fingerprints/
+
+# Outputs
+output.txt
+
+# OS
+.DS_Store
