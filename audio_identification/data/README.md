@@ -5,7 +5,9 @@ coursework is not included in this repository.
 
 ### Expected structure
 data/
+
 ├── database_recordings/
+
 ├── query_recordings/
 
 
